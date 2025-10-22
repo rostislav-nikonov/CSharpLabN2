@@ -1,0 +1,14 @@
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\bin\Debug\net8.0\ConstructorLab.exe
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\bin\Debug\net8.0\ConstructorLab.deps.json
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\bin\Debug\net8.0\ConstructorLab.runtimeconfig.json
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\bin\Debug\net8.0\ConstructorLab.dll
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\bin\Debug\net8.0\ConstructorLab.pdb
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\obj\Debug\net8.0\ConstructorLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\obj\Debug\net8.0\ConstructorLab.AssemblyInfoInputs.cache
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\obj\Debug\net8.0\ConstructorLab.AssemblyInfo.cs
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\obj\Debug\net8.0\ConstructorLab.csproj.CoreCompileInputs.cache
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\obj\Debug\net8.0\ConstructorLab.dll
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\obj\Debug\net8.0\refint\ConstructorLab.dll
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\obj\Debug\net8.0\ConstructorLab.pdb
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\obj\Debug\net8.0\ConstructorLab.genruntimeconfig.cache
+C:\Users\rost\source\repos\ConstructorLab\ConstructorLab\obj\Debug\net8.0\ref\ConstructorLab.dll
